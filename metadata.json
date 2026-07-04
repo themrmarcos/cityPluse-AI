@@ -1,0 +1,6 @@
+{
+  "name": "CityPulse AI",
+  "description": "Urban Data Intelligence Platform that analyzes traffic, weather, air quality, flood risk, and road quality to help city operators and commuters make smarter decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
